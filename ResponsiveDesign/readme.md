@@ -36,7 +36,7 @@ On hover, apply the box-shadow property with the value 5px 5px 7px grey.
 The appearance of a textblock should visually change when the mouse moves over it.
 
 
-6. * Responsive Design: In the exercise directory, locate the file responsive.html.
+6. Responsive Design: In the exercise directory, locate the file responsive.html.
 Create a CSS file named responsive.css containing all styles needed to implement a three-stage responsive design, as shown in Figures 2, 3, and 4.
 Requirements:
 Smartphone layout: optimized for 320px, shown up to a window width of 600px
