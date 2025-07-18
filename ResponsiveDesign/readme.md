@@ -52,4 +52,4 @@ To add text outlines or effects, use the text-shadow property.
 The goal of this exercise is not precise pixel values, but to gain understanding in applying margins, paddings, text flow, media queries, and hierarchy structures in CSS.
 
 Helpful resource for Flexbox:
-CSS-Tricks Flexbox Guide
+CSS-Tricks Flexbox Guide https://css-tricks.com/snippets/css/a-guide-to-flexbox/ 
