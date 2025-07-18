@@ -98,7 +98,7 @@ Add an attribute named teamList to the object and assign it the team list from t
 (Use the constructor-injected TeamService; the ModelAndView requires the path to the template.)
 d. Create a Freemarker template to display the list of teams.
 Each team should be output within a <div> container, showing:
-* the team name in an <h6> heading
+* the team name in an heading (<h6>)
 * the team code in a <p> tag
 Create this output as a macro, so the macro can be called when iterating through the team list.
 
