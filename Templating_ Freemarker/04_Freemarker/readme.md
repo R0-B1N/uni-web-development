@@ -1,4 +1,4 @@
-Instuctions (without pics, this is awfully copy-pasted, sorry!)
+Instructions (without pics, this is awfully copy-pasted, sorry!)
 
 Notes
 
