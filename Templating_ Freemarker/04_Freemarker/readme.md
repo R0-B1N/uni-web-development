@@ -1,4 +1,4 @@
-Instuctions (without pics)
+Instuctions (without pics, this is awfully copy-pasted, sorry!)
 
 Notes
 
@@ -64,12 +64,9 @@ a. Implement the bodies of the get* methods. Each method should first check if t
 If so, the method generateDataStructure() should be called.
 Regardless of the check, always return the corresponding list object.
 b. Implement the generateDataStructure() method. Create at least:
-
-4 PersonDto objects
-
-4 EmployeeDto objects
-
-2 TeamDto objects (each consisting of 2 EmployeeDto objects)
+* 4 PersonDto objects
+* 4 EmployeeDto objects
+* 2 TeamDto objects (each consisting of 2 EmployeeDto objects)
 
 Figure 4: Class diagram for the DataHelper class
 (Underlined = static; Red square = private; Green circle = public)
