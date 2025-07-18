@@ -4,7 +4,6 @@ The tasks related to layout, content, size specifications, margins, and pseudo-c
 
 1. Layout: Create a layout according to the structure shown in Figure 1.
 Define the stylesheet properties in a separate CSS file.
-
 Notes:
 The containers shown in Figure 1 are DIV containers.
 (Figure 1: Website layout)
@@ -15,7 +14,6 @@ a. Provide any sample text for the textblock sections and insert it directly int
 b. Insert an image of your choice in the logo area and reference it via the CSS file.
 c. Ensure the image does not repeat.
 d. Position the image aligned to the right.
-
 Helpful hints:
 Use http://www.loremipsum.de/ for placeholder text
 Use the background-image and background-position CSS properties
@@ -40,13 +38,11 @@ The appearance of a textblock should visually change when the mouse moves over i
 
 6. * Responsive Design: In the exercise directory, locate the file responsive.html.
 Create a CSS file named responsive.css containing all styles needed to implement a three-stage responsive design, as shown in Figures 2, 3, and 4.
-
 Requirements:
 Smartphone layout: optimized for 320px, shown up to a window width of 600px
 Tablet (portrait mode): optimized for 600px, shown up to 980px
 Desktop layout: all widths above 980px should use a fixed 980px layout width
 Use Flexbox wherever possible to implement the solution.
-
 Additional notes:
 Do not modify the HTML source code. Apply CSS using techniques you’ve previously learned for targeting successive HTML elements.
 Images are located in the images folder and can be used as background images with proper positioning.
