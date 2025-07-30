@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<!DOCTYPE pets SYSTEM "../Aufgabe2.dtd">
+<pets>
+	<dogs>
+		<dog breed="Labrador">
+			<color>Black</color>
+		</dog>
+		<dog breed="Labrador">
+			<color>Golden</color>
+		</dog>
+		<dog breed="Irish Setter">
+			<color>Brown</color>
+		</dog>
+	</dogs>
+	<cats>
+		<cat breed="Siamese">
+			<color>Cream</color>
+		</cat>
+		<cat breed="Burmese">
+			<color>Grey</color>
+		</cat>
+		<cat breed="Tortoiseshell">
+			<color>Brown</color>
+		</cat>
+	</cats>
+</pets>

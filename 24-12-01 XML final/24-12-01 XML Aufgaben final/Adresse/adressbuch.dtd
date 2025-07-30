@@ -1,0 +1,13 @@
+<!ELEMENT adressbuch (adresse*)>
+
+<!ELEMENT adresse ((firma | person), strasse, ort)>
+
+<!ELEMENT firma (firmenname)>
+<!ELEMENT person (anrede?, vorname+, nachname)>
+
+<!ELEMENT strasse (#PCDATA)>
+<!ELEMENT ort (#PCDATA)>
+<!ELEMENT firmenname (#PCDATA)>
+<!ELEMENT anrede (#PCDATA)>
+<!ELEMENT vorname (#PCDATA)>
+<!ELEMENT nachname (#PCDATA)>

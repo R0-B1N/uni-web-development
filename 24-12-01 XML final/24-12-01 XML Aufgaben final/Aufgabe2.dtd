@@ -1,0 +1,12 @@
+<!ELEMENT pets (dogs, cats)>
+
+<!ELEMENT dogs (dog*)>
+<!ELEMENT cats (cat*)>
+
+<!ELEMENT dog (color)>
+<!ATTLIST dog breed CDATA #REQUIRED>
+
+<!ELEMENT cat (color)>
+<!ATTLIST cat breed CDATA #REQUIRED>
+
+<!ELEMENT color (#PCDATA)>

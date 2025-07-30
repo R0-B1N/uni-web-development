@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="email.xsl" type="text/xsl"?>
+<!DOCTYPE email SYSTEM "email.dtd">
+
+<email xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.th-wildau.de/ email.xsd">
+    <empfaenger>BibInfo 2019</empfaenger>
+    <kopieAn>Dr. Frank Seeliger</kopieAn>
+    <kopieAn>Wildau Institute of Technology</kopieAn>
+    <absender>Marcel-D. Block</absender>
+    <thema>Vorlesungstermin</thema>
+    <nachricht>
+        Liebe Bibliotheksinformatiker,
+
+        die nächste Veranstaltung zur Internetprogrammierung findet am Dienstag den 23.11.
+        um 15.45 bis 19.00 statt.
+
+        Beste Grüße
+        Marcel Block
+    </nachricht>
+</email>

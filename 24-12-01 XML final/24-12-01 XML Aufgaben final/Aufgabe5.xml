@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Katalog xmlns="https://www.w3schools.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="Aufgabe5.xsd">
+	<Jahr year="2000">
+		<Autor Name="Bingus Bongus">
+			<Titel>Bingus und seine tollen Abenteuer</Titel>
+			<Verlag>TBS</Verlag>
+			<ISBN>978-0-7869-6560-1</ISBN>
+		</Autor>
+	</Jahr>
+</Katalog>

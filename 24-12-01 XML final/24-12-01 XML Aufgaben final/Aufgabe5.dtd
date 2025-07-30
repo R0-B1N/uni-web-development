@@ -1,0 +1,11 @@
+<!ELEMENT Katalog (Jahr*)>
+
+<!ELEMENT Jahr (Autor*)>
+<!ATTLIST Jahr Wert CDATA #REQUIRED>
+
+<!ELEMENT Autor (Titel, Verlag, ISBN)>
+<!ATTLIST Autor Name CDATA #REQUIRED>
+
+<!ELEMENT Titel (#PCDATA)>
+<!ELEMENT Verlag (#PCDATA)>
+<!ELEMENT ISBN (#PCDATA)>

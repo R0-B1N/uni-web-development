@@ -1,0 +1,6 @@
+<!ELEMENT email      (empfaenger, kopieAn*, absender, thema, nachricht)>
+<!ELEMENT empfaenger (#PCDATA)>
+<!ELEMENT absender   (#PCDATA)>
+<!ELEMENT thema      (#PCDATA)>
+<!ELEMENT nachricht  (#PCDATA)>
+<!ELEMENT kopieAn    (#PCDATA)>

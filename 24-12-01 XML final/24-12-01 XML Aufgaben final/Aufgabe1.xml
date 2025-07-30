@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE adressbuch SYSTEM "C:\Users\nikla\OneDrive\Desktop\XML\Adresse\adressbuch.dtd">
+
+<adressbuch>
+	<adresse>
+		<person>
+			<anrede>Herr</anrede>
+			<vorname>Max</vorname>
+			<nachname>Mustermann</nachname>
+		</person>
+		<strasse>Musterstr. 15</strasse>
+		<ort>12345 Musterstadt</ort>
+	</adresse>
+	
+	<adresse>
+		<firma>
+			<firmenname>Musterautomation</firmenname>
+		</firma>
+		<strasse>Musterstr. 56</strasse>
+		<ort>12345 Musterstadt</ort>
+	</adresse>
+</adressbuch>

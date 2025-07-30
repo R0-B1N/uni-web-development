@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+<xs:element name="Katalog">
+	<xs:complexType>
+		<xs:element name="Jahr">
+			<xs:attribute name="year" type="xs:integer" default="1990"/>
+			<xs:element name="Autor">
+				<xs:attribute name="Name" type="xs:string"/>
+				<xs:sequence>
+					<xs:element name="Titel" type="xs:string"/>
+					<xs:element name="Verlag" type="xs:string"/>
+					<xs:element name="ISBN" type="xs:string"/>
+				</xs:sequence>
+			</xs:element>
+		</xs:element>
+	</xs:complexType>
+</xs:element>

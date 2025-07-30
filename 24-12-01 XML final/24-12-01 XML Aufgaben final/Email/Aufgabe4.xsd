@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+<xs:element name="email">
+	<xs:complexType>
+		<xs:sequence>
+			<xs:element name="empfaenger" type="xs:string"/>
+			<xs:element name="absender" type="xs:string"/>
+			<xs:element name="thema" type="xs:string"/>
+			<xs:element name="nachricht" type="xs:string"/>
+			<xs:element name="kopieAn" type="xs:string"/>
+		</xs:sequence>
+	</xs:complexType>
+</xs:element>
