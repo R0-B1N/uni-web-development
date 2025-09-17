@@ -1,8 +1,0 @@
-# Einstellung lt. Aufgabe 2
-# Stellt Datenbankverbindung her
-spring:
-  datasource:
-    url: jdbc:h2:./h2/bibinfo
-    driver-class-name: org.h2.Driver
-  jpa:
-    database-platform: org.hibernate.dialect.H2Dialect
